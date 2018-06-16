@@ -1,0 +1,12 @@
+enemyPositionList =[635,441,388,593,128,263,423,578,278,393,123,293,503,400,225,455,160,545,155,480,265.440,535,645,105,245,552]
+
+
+if self.rect.x < self.Position:
+
+                if ( math.fabs(self.Position) - math.fabs(self.rect.x)) == 51:'
+                    self.changeX = self.changeX*(-1)'
+
+            elif self.rect.x > self.Position:
+
+                if (math.fabs(self.rect.x) - math.fabs(self.Position)) == 51:
+                    self.changeX = self.changeX*(-1)

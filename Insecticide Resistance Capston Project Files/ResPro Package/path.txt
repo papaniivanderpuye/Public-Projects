@@ -1,0 +1,1 @@
+/usr/local/matlab/bin:/usr/local/android/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/usr/local/ALE/Arcade-Learning-Environment-master:~/libsvm-master

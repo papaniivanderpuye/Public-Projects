@@ -1,0 +1,15 @@
+  self.rect.y += 1
+        
+        block_hit_list = pygame.sprite.spritecollide(self, self.levellist, False)
+
+        if len(block_hit_list) > 0:
+           
+            for block in block_hit_list:
+            
+                
+                self.rect.bottom = block.rect.top
+                if self.rect.y == self.Postion:
+                    self.rect.y += -5
+
+        else:
+           self.rect.y += -1 
