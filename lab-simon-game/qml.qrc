@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Pie_0.png</file>
+        <file>Images/Pie_1.png</file>
+        <file>Images/Pie_2.png</file>
+        <file>Images/Pie_3.png</file>
+        <file>Images/Pie_4.png</file>
+        <file>main.qml</file>
+        <file>PlayButton.qml</file>
+        <file>SimonGame.qml</file>
+        <file>trigonometryLogic.js</file>
+        <file>Sounds/Effect_0.wav</file>
+        <file>Sounds/Effect_1.wav</file>
+        <file>Sounds/Effect_2.wav</file>
+        <file>Sounds/Effect_3.wav</file>
+        <file>Images/Pie_full.png</file>
+        <file>GameOverText.qml</file>
+    </qresource>
+</RCC>

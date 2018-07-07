@@ -1,0 +1,3 @@
+this is another document 
+for finding words
+let us see how many lines are there.
