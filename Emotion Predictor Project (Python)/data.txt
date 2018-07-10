@@ -1,0 +1,2 @@
+tweet_id	sentiment	author	content
+1956967341	?	unknownUser	i hate my life

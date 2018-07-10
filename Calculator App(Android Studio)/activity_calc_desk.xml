@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_calc_desk"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="edu.fandm.pvanderp.calcdesk.CalcDesk">
+
+
+    <TextView
+        android:id="@+id/display"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="40dp"
+        android:gravity="right"
+        android:textAlignment="gravity"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:columnCount="4"
+        android:orientation="horizontal"
+        android:layout_marginTop="51dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp">
+
+
+        <Button android:id="@+id/one"
+             android:text="1" />
+
+        <Button android:id="@+id/two"
+            android:text="2" />
+
+        <Button android:id="@+id/three"
+            android:text="3" />
+
+        <Button android:id="@+id/plus"
+            android:text="+" />
+
+        <Button android:id="@+id/four"
+            android:text="4" />
+
+        <Button android:id="@+id/five"
+            android:text="5" />
+
+        <Button android:id="@+id/six"
+            android:text="6" />
+
+        <Button android:id="@+id/minus"
+            android:text="-" />
+
+        <Button android:id="@+id/seven"
+            android:text="7" />
+
+        <Button android:id="@+id/eight"
+            android:text="8" />
+
+        <Button android:id="@+id/nine"
+            android:text="9" />
+
+        <Button android:id="@+id/multipliedBy"
+            android:text="*" />
+
+        <Button android:id="@+id/zero"
+            android:text="0" />
+
+        <Button android:id="@+id/point"
+            android:text="." />
+
+        <Button android:id="@+id/toThePower"
+            android:text="^" />
+
+        <Button android:id="@+id/divededBy"
+            android:text="/" />
+
+        <Button
+            android:id="@+id/enter"
+            android:layout_columnSpan="3"
+            android:layout_gravity="fill"
+            android:text="ENTER" />
+
+        <Button android:id="@+id/clear"
+            android:text="CLEAR" />
+
+    </GridLayout>
+
+
+</RelativeLayout>

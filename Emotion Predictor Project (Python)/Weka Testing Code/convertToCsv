@@ -1,0 +1,3 @@
+
+oldFILe = open('factors.csv','w')
+newFile= open('factors.csv','w')

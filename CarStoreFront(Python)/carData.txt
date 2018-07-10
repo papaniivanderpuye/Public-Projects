@@ -1,0 +1,21 @@
+Model	MPG	Cylinders	Displacement	Horsepower	Weight	Acceleration	Year	Origin	Price	UniqueProperty
+chevrolet chevelle malibu	18	8	307	130	3504	12	1970	US	$63,295	bluetooth speakers
+buick skylark 320	15	8	350	165	3693	11.5	1970	US	$35,995	tinted windows
+plymouth satellite	18	8	318	150	3436	11	1970	US	$26,953	gps locator
+amc rebel sst	16	8	304	150	3433	12	1970	US	$62,865	phone stand
+ford torino	17	8	302	140	3449	10.5	1970	US	$30,000	automated rear windows
+ford galaxie 500	15	8	429	198	4341	10	1970	US	$50,000	manual
+volkswagen 1131 deluxe sedan	26	4	97	46	1835	20.5	1970	Europe	$29,065	sixth gear
+peugeot 504	25	4	110	87	2672	17.5	1970	Europe	$34,997	gold interior
+audi 100 ls	24	4	107	90	2430	14.5	1970	Europe	$44,700	suicide doors
+saab 99e	25	4	104	95	2375	17.5	1970	Europe	$28,988	beats by dre sound system
+bmw 2002	26	4	121	113	2234	12.5	1970	Europe	$55,865	Bose sound system
+toyota corolla 1200	31	4	71	65	1773	19	1971	Japan	$55,865	green versace interior
+datsun 1200	35	4	72	69	1613	18	1971	Japan	$28,939	bullet proof glass
+toyota corona hardtop	24	4	113	95	2278	15.5	1972	Japan	$3,091	cruise function
+mazda rx2 coupe	19	3	70	97	2330	13.5	1972	Japan	$63,265	voice control
+datsun 510 (sw)	28	4	97	92	2288	17	1972	Japan	$46,091	back moniter
+toyouta corona mark ii (sw)	23	4	120	97	2506	14.5	1972	Japan	$56,265	rear camera
+plymouth duster	23	6	198	95	2904	16	73	US	$38,495	rear beeper
+volkswagen super beetle	26	4	97	46	1950	21	73	Europe	$33,000	phone charger
+chevrolet impala	11	8	400	150	4997	14	73	US	$55,865	dvd player

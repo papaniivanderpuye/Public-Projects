@@ -1,0 +1,13 @@
+<footer>
+  <div class="footerlink">
+     <p style='font-size:125%;margin-bottom:8px'>Beautyman Realty owns, directly or through affiliates, over 300 properties worldwide, and this website presents a sample of those properties.</p>
+     <p class="lf">Copyright &copy; <span id='dt'></span> <a href="http://beautyman.com/html/about.htm">Beautyman, LLP</a> - All Rights Reserved</p>
+    <div style="clear:both;"></div>
+  </div>
+</footer>
+<script>
+	document.getElementById("dt").innerHTML = new Date().getFullYear();
+</script>
+<script type="text/javascript"> 
+//Cufon.now(); 
+</script>

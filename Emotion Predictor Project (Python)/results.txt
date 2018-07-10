@@ -1,0 +1,8 @@
+
+
+=== Predictions on test data ===
+
+    inst#     actual  predicted error prediction
+        1      1:neg      1:neg       0.769 
+        2      2:pos      1:neg   +   0.769 
+

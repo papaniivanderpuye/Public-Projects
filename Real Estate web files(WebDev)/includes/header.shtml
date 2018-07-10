@@ -1,0 +1,25 @@
+  <div class="logo" style='padding-bottom:15px'>
+      <h2><strong>Beautyman Realty </strong> Premium Properties Worldwide</h2>
+      <span style='font-size:10pt'>Michael Beautyman (267) 679-7440 or email mbeauty@Beautyman.com</span>
+    </div>
+  <nav style='margin-right:15px'>
+      <ul>
+        <li><a href="index.html" class="current">Home</a></li>
+        <li><a href="contacts.html">Contact Us</a></li>
+        
+      </ul>
+    </nav>
+    <br/>
+    <div class='connect'>
+    <lable>Connect With Us</label>
+      <ul>
+        <li>
+        	<a class="icon" href="https://www.facebook.com/PhillyLuxury/" style="background-position:0 0;"><img border="0" alt="Facebook" src="images/small_fb.png" >
+        	</a>
+        </li>
+        <li>
+        	<a class="icon" href="https://www.instagram.com/beautyman_realty/" style="background-position:0 0;"><img border="0" alt="Instagram" src="images/small_instagram.png" ></a>
+		</li>
+      </ul>
+    </connect>
+    
